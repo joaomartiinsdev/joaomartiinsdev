@@ -1,4 +1,4 @@
-## Hi, i'm João 
+## Hi, i'm João 👋
 <div align="center">
   <a href="https://github.com/joaomartiinsdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomartiinsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
