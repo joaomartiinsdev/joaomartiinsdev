@@ -4,8 +4,10 @@
   <a href="https://github.com/joaomartiinsdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomartiinsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-  - My name is João Martins, i live in Portugal and i'm a front-end freelancer developer 💻😉
+   
+  ##
+ 
+  ➾ My name is João Martins, i live in Portugal and i'm a front-end freelancer developer 💻😉
   
   ### Languages and Tools:
 <div style="display: inline_block"><br>
