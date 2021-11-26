@@ -7,7 +7,7 @@
    
   ##
  
-  ###➾ My name is João Martins, i live in Portugal and i'm a front-end freelancer developer 💻😉
+  ### ➾ My name is João Martins, i live in Portugal and i'm a front-end freelancer developer 💻😉
   
   ##
   
